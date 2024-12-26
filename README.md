@@ -10,5 +10,5 @@
   - Student project
   - employee project
   - vegetable market project
-  - online shoping
+  - online shoping project
   
