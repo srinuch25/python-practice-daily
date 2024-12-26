@@ -11,4 +11,7 @@
   - employee project
   - vegetable market project
   - online shoping project
+
+# 12/26/2024 discussion points
+ - UI+Python+MySql using stendent project
   
